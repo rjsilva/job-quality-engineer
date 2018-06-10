@@ -17,7 +17,7 @@
 
 #Como rodar os teste
 
-os testes podem ser rodados pelo maven dentro do projeto
+os testes podem ser rodados pelo maven dentro do projeto Api-Intelipost
 
 pré requisto:maven
 - entra no terminal ou cmd
