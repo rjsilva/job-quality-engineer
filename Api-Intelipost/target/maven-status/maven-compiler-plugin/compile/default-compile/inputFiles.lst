@@ -1,0 +1,17 @@
+/Users/yamanuser/Projects/eclipse-workspace/Api-Intelipost/src/main/java/br/com/intelipost/model/Body.java
+/Users/yamanuser/Projects/eclipse-workspace/Api-Intelipost/src/main/java/br/com/intelipost/request/Http.java
+/Users/yamanuser/Projects/eclipse-workspace/Api-Intelipost/src/main/java/br/com/intelipost/dto/Content.java
+/Users/yamanuser/Projects/eclipse-workspace/Api-Intelipost/src/main/java/br/com/intelipost/dto/DeliveryOptions.java
+/Users/yamanuser/Projects/eclipse-workspace/Api-Intelipost/src/main/java/br/com/intelipost/model/Identification.java
+/Users/yamanuser/Projects/eclipse-workspace/Api-Intelipost/src/main/java/br/com/intelipost/dto/Volumes.java
+/Users/yamanuser/Projects/eclipse-workspace/Api-Intelipost/src/main/java/br/com/intelipost/model/Product.java
+/Users/yamanuser/Projects/eclipse-workspace/Api-Intelipost/src/main/java/br/com/intelipost/factory/ObjectFactory.java
+/Users/yamanuser/Projects/eclipse-workspace/Api-Intelipost/src/main/java/br/com/intelipost/funcionalidade/QuoteByProductFuncionalidade.java
+/Users/yamanuser/Projects/eclipse-workspace/Api-Intelipost/src/main/java/br/com/intelipost/model/AdditionalInformation.java
+/Users/yamanuser/Projects/eclipse-workspace/Api-Intelipost/src/main/java/br/com/intelipost/dto/AdditionalInformation.java
+/Users/yamanuser/Projects/eclipse-workspace/Api-Intelipost/src/main/java/br/com/intelipost/request/MetodosHttpImpl.java
+/Users/yamanuser/Projects/eclipse-workspace/Api-Intelipost/src/main/java/br/com/intelipost/dto/Messages.java
+/Users/yamanuser/Projects/eclipse-workspace/Api-Intelipost/src/main/java/br/com/intelipost/dto/Response.java
+/Users/yamanuser/Projects/eclipse-workspace/Api-Intelipost/src/main/java/br/com/intelipost/model/Token.java
+/Users/yamanuser/Projects/eclipse-workspace/Api-Intelipost/src/main/java/br/com/intelipost/dto/Identification.java
+/Users/yamanuser/Projects/eclipse-workspace/Api-Intelipost/src/main/java/br/com/intelipost/model/EndPoint.java
