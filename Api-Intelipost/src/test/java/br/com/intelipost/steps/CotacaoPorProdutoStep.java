@@ -13,6 +13,11 @@ import cucumber.api.DataTable;
 import cucumber.api.java.pt.Dado;
 import cucumber.api.java.pt.Entao;
 
+/**
+ * 
+ * @author Ronaldo Silva
+ *
+ */
 public class CotacaoPorProdutoStep {
 
 	private QuoteByProductFuncionalidade cotacaoCanalVendaFuncionalidade;

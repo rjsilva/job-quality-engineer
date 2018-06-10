@@ -14,7 +14,7 @@ import br.com.intelipost.model.Product;
 public class ObjectFactory {
 
 	private static Body body;
-	private static Product[] array = new Product[1];
+	private static Product[] produtos = new Product[1];
 	private static Product produto;
 	private static Faker faker;
 
@@ -69,9 +69,9 @@ public class ObjectFactory {
 		/**
 		 * 
 		 */
-		array[0] = produto;
+		produtos[0] = produto;
 
-		body.setProducts(array);
+		body.setProducts(produtos);
 
 		body.getAdditional_information().setLead_time_business_days(faker.number().randomDigit());
 
