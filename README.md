@@ -32,3 +32,10 @@ pré requisito: Eclipse
 obs: para rodar os testes pelo maven, deve-se ter o mesmo instalado.
 
 
+Relatório está no camiho abaixo dentro do projeto.
+
+Api-Intelipost/target/surefire-reports/cucumber.html
+
+e abrir no index.html no browser de sua preferência
+
+
